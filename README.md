@@ -6,5 +6,5 @@
 [![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Python-Games?color=blueviolet&style=for-the-badge)](https://badges.pufler.dev)
 
 Contains Datasets for my Machine Learning Blogs on 
-> ![My Website](www.hardtasksin.wordpress.com) and 
+> ![My Website](https://www.hardtasksin.wordpress.com) and 
 > ![Medium](https://medium.com/@aaaanchakure)
