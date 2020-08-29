@@ -9,5 +9,5 @@
 
 
 Contains Datasets for my Machine Learning Blogs on 
-> **My Website (Hard Tasks In)** - https://www.hardtasksin.wordpress.com) and 
-> **Medium** - https://medium.com/@aaaanchakure
+> [**My Website (Hard Tasks In)**](https://www.hardtasksin.wordpress.com) and 
+[**Medium**](https://medium.com/@aaaanchakure)
